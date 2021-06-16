@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "609fa4e87de7f3b918652039"
+  },
+  "event_id": "1",
+  "event_name": "Webinar",
+  "club_name": "Acses",
+  "event_platform": "Zoom",
+  "date": "16/05/2021",
+  "time": "10:00 AM"
+},{
+  "_id": {
+    "$oid": "609fa50c7de7f3b91865203a"
+  },
+  "event_id": "2",
+  "event_name": "ADS Workshop",
+  "club_name": "ACM",
+  "event_platform": "Google Meet",
+  "date": "16/05/2021",
+  "time": "11:00 AM"
+}]
